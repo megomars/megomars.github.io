@@ -1,2 +1,2 @@
-# haddadme.github.com
+# Mohammed Haddad
 ## Data journalist @AJEnglish @AJLabs
